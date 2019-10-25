@@ -6,7 +6,6 @@ channels:
   - plotly
 dependencies:
   - os
-  - glob
   - pandas 
   - statsmodels
   - plotly
