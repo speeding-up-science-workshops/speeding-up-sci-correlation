@@ -7,8 +7,9 @@ Visualization codes from the 2nd "speeding up science workshop". This repository
 There is an example of visualizing gene abundances (DNA) compared to their expression levels (RNA) included in the binder. The data are from one Mediterranean site from the TARA Oceans project (https://science.sciencemag.org/content/348/6237/1261359.long). The metagenomics come from sample accession SAMEA2619782, and the metatransciptomics come from SAMEA2619784.
 
 ## Quick Start
-- Click the jupyter notebook file (Correlation_dna_rna.ipynb) to enter the interactive user interface
-- You can either run the notebook with the example or upload new files 
+- Click the jupyter notebook file (Correlation_dna_rna.ipynb) to enter the interactive user interface.
+- You can either run the notebook with the included example or upload new data files by clicking the `Upload` button at the upper right corner of the binder homepage. See below for examples of input files.
+- The code chunks can be excuted by pressing `Ctrl` + `Enter`, or click the `Run` bottom on top of the notebook.
 
 ## Example Input
 #### 1. A count table containing genes found in both DNA and RNA sequencing results.
@@ -21,7 +22,7 @@ There is an example of visualizing gene abundances (DNA) compared to their expre
 |     3 | TOBG-MED-1076_1151 |    2.85944   |    15.5723    |
 |     4 | TOBG-MED-1076_1195 |    8.81305   |    12.3797    |
 
-#### 2. An annotation table. If a gene has "nan" value for KO ID, this means that this gene does not have any match within the KEGG database.
+#### 2. An annotation table. If a gene has "nan" value for KO ID, this means that this gene does not have any match within the KEGG database. These "nan" values will be removed.
 
 |    | Gene               | KO_ID   |
 |---:|:-------------------|:--------|
