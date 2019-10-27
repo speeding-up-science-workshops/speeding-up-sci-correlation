@@ -47,8 +47,8 @@ The figure below is a static example of the output figure. The actual figure gen
 <img src='https://github.com/zeyaxue/speeding-up-sci-correlation/blob/master/sample_output.svg'>
 
 ## Authors
- - Zhengyao "Zeya" Xue, [Github ID](https://github.com/zeyaxue) and [ORCID](https://orcid.org/0000-0002-4930-8212) 
- - Michael D. Lee, [Github ID](https://github.com/AstrobioMike) and [ORCID](https://orcid.org/0000-0001-7750-9145)
+ - Zhengyao "Zeya" Xue, Github ID [@zeyaxue](https://github.com/zeyaxue) and [ORCID](https://orcid.org/0000-0002-4930-8212) 
+ - Michael D. Lee, Github ID [@AstrobioMike](https://github.com/AstrobioMike) and [ORCID](https://orcid.org/0000-0001-7750-9145)
  
 ## Links
 - Zenodo Binder, doi: LINK_TO_BINDER
