@@ -1,5 +1,5 @@
 # speeding-up-sci-correlation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)[![DOI](https://zenodo.org/badge/217589536.svg)](https://zenodo.org/badge/latestdoi/217589536)
 
 ## Summary
 Visualization codes from the 2nd "speeding up science workshop". This repository contains codes to plot and calculate correlation (linear regression) between metagenomic and metatranscriptomic sequencing results acquired from the same sample.
@@ -51,6 +51,6 @@ The figure below is a static example of the output figure. The actual figure gen
  - Michael D. Lee, Github ID [@AstrobioMike](https://github.com/AstrobioMike) and [ORCID](https://orcid.org/0000-0001-7750-9145)
  
 ## Links
-- Zenodo Binder, doi: [![DOI](https://zenodo.org/badge/217589536.svg)](https://zenodo.org/badge/latestdoi/217589536)
+- Zenodo Binder: [![DOI](https://zenodo.org/badge/217589536.svg)](https://zenodo.org/badge/latestdoi/217589536)
 - Github Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)
 - Github Repository: https://github.com/speeding-up-science-workshops/speeding-up-sci-correlation
