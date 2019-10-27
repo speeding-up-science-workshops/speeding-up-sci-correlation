@@ -1,5 +1,5 @@
 # speeding-up-sci-correlation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)[![DOI](https://zenodo.org/badge/217589536.svg)](https://zenodo.org/badge/latestdoi/217589536)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)    [![DOI](https://zenodo.org/badge/217589536.svg)](https://zenodo.org/badge/latestdoi/217589536)
 
 ## Summary
 Visualization codes from the 2nd "speeding up science workshop". This repository contains codes to plot and calculate correlation (linear regression) between metagenomic and metatranscriptomic sequencing results acquired from the same sample.
