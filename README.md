@@ -9,7 +9,7 @@ There is an example of visualizing gene abundances (DNA) compared to their expre
 ## Quick Start
 - Click the jupyter notebook file (Correlation_dna_rna.ipynb) to enter the interactive user interface.
 - You can either run the notebook with the included example or upload new data files by clicking the `Upload` button at the upper right corner of the binder homepage. See below for examples of input files.
-- The code chunks can be excuted by pressing `Ctrl` + `Enter`, or click the `Run` bottom on top of the notebook.
+- The code chunks can be excuted by pressing `Ctrl` + `Enter`, or click the `Run` button on top of the notebook.
 
 ## Example Input
 #### 1. A count table containing genes found in both DNA and RNA sequencing results.
