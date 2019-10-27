@@ -50,6 +50,6 @@ The figure below is a static example of the output figure. The actual figure gen
  - Michael D. Lee, [Github ID](https://github.com/AstrobioMike) and [ORCID](https://orcid.org/0000-0001-7750-9145)
  
 ## Links
-Zenodo Binder, doi: LINK_TO_BINDER
-Github Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)
-Github Repository: https://github.com/speeding-up-science-workshops/speeding-up-sci-correlation
+- Zenodo Binder, doi: LINK_TO_BINDER
+- Github Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzeyaxue%2Fspeeding-up-sci-correlation/master)
+- Github Repository: https://github.com/speeding-up-science-workshops/speeding-up-sci-correlation
