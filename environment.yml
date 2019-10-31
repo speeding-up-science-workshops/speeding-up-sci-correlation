@@ -1,0 +1,11 @@
+name: correlation_binder_env
+channels:
+  - anaconda
+  - jmcmurray
+  - conda-forge
+  - plotly
+dependencies:
+  - os
+  - pandas 
+  - statsmodels
+  - plotly
